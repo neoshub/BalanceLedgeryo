@@ -1,0 +1,6 @@
+{
+  "name": "BalanceLedger — Multi-Bank Minimum Balance Tracker",
+  "description": "Track multiple bank accounts against minimum balance requirements and compute optimal internal transfers to eliminate shortfalls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
